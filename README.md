@@ -64,7 +64,7 @@ I’m currently looking for opportunities as a **Junior Data Scientist** or **AI
 
 Feel free to connect with me if you're interested in AI, Data Science, research collaborations, or technology projects.
 
-💼 LinkedIn
+💼 LinkedIn: [Robert Buleje](https://pe.linkedin.com/in/rjbuleje)
 <!--
 **rjbuleje/rjbuleje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
